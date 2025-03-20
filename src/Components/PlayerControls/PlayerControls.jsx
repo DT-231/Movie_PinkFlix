@@ -3,7 +3,7 @@ import PlayPauseButton from "../../Common/PlayPauseButton/PlayPauseButton";
 import ProgressBar from "../../Common/ProgressBar/ProgressBar";
 import SeekButtons from "../../Common/SeekButtons/SeekButtons";
 import TimeDisplay from "../../Common/TimeDisplay/TimeDisplay";
-import VolumeControl from "../VolumeControl/VolumeControl.JSX";
+import VolumeControl from "../VolumeControl/VolumeControl";
 
 const PlayerControls = ({
     isShow,
